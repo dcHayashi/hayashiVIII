@@ -1,4 +1,4 @@
-###  HAYASHI <img src="https://cdn.discordapp.com/emojis/777919160046977044.gif?v=1" width:"28px" alt:"hi" />
+###  HAYASHI <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 #
 
