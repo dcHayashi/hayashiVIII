@@ -1,4 +1,6 @@
-###  HAYASHI <img src="https://cdn.discordapp.com/emojis/777919160046977044.gif?v=1" width:"28px">
+###  HAYASHI <img src="https://cdn.discordapp.com/emojis/777919160046977044.gif?v=1" width:"28px" alt:"hi" />
+
+#
 
 - 🔭 CEO VIII
 - 🎐 Fukoaka, Japan
