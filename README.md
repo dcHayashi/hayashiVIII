@@ -1,6 +1,6 @@
 #                                                               _HAYASHI
 
-<img scr="https://profile-counter.glitch.me/ytmcgamer/count.svg^" width:"28px">
+<img scr="https://profile-counter.glitch.me/ytmcgamer/count.svg^" width:"28px" />
 
 - 🔭 CEO VIII
 - 🎐 Fukoaka, Japan
