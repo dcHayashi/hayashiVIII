@@ -2,8 +2,8 @@
 
 #
 
-## - 🔭 CEO VIII
-#
-##- 🎐 Fukoaka, Japan
-#
-##- 🧠 Hello, i'm a programmer
+# - 🔭 CEO VIII
+
+# - 🎐 Fukoaka, Japan
+
+# - 🧠 Hello, i'm a programmer
