@@ -15,11 +15,11 @@
 ---
 
 #
-<details align='center'>
+
  
 #
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayashiVIII&show_icons=true&theme=radical)
+<img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayashiVIII&show_icons=true&theme=radical)" align='center'>
 
 </details>
 
