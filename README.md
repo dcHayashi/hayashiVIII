@@ -11,9 +11,9 @@
 
 ### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/786765752375312405.gif?v=1" height="28px" width="28px"/>*
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=cCZ7u5kzRXiimLM_6Mn82Q)
-
 ---
-素<img scr="https://cdn.discordapp.com/attachments/797514271562793000/797625939478577202/wh5.gif"> 
+
+素 <img scr="https://cdn.discordapp.com/attachments/797514271562793000/797625939478577202/wh5.gif"> 
 直
 に
 な
