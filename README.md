@@ -19,10 +19,9 @@
  
 #
   
-<img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayashiVIII&show_icons=true&theme=radical)" align='center'>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hayashiVIII&theme=gruvebox&show_icons=radical" alt="hayashiVIII"/></p>
 
-</details>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashiVIII&theme=graywhite&layout=compact&card_width=450" alt="hayashiVIII"/></p>
 
 #
 "素 
