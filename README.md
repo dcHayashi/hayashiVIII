@@ -15,7 +15,7 @@
 ---
 
 #
-
+<details style='text-align: center;' align='center'>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayashiVIII&show_icons=true&theme=radical)
 
 </details>
