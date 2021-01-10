@@ -13,7 +13,7 @@
 #
 
 ### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/780099855182856192.gif?v=1" width="32px"/>*
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=cCZ7u5kzRXiimLM_6Mn82Q)
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="500" />](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=TDAz25VcS-i-qPEKS1Q5vw)
 ---
 #
   
