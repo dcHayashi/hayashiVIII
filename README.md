@@ -15,7 +15,7 @@
 ---
 
 #
-<details style='text-align: center;' align='center'>
+<details align='center'>
  
 #
   
