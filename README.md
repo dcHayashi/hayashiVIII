@@ -6,7 +6,7 @@
 #### - ⛓ CEO VIII
 #### - ✨ I intend to have knowledge in the area of pentest 
 --- 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/797514271562793000/797650270690476082/wh6.gif" height="320px" width="454px">
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/797514271562793000/797650270690476082/wh6.gif" height="280px" width="454px">
 
 ##### <img src="https://cdn.discordapp.com/emojis/795323206595641415.gif?v=1" width="32px"> ページをめくるか、本を閉じるかを選択する必要があるかもしれません。<img src="https://cdn.discordapp.com/emojis/795323206595641415.gif?v=1" width="32px">
 
