@@ -13,6 +13,8 @@
 ### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/786765752375312405.gif?v=1" height="28px" width="28px"/>*
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=cCZ7u5kzRXiimLM_6Mn82Q)
 ---
+
+#
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hayashiVIII&show_icons=true&theme=radical" alt="hayashiVIII"/></p>
 
