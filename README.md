@@ -16,12 +16,6 @@
 
 #
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hayashiVIII&theme=gruvebox&show_icons=true" alt="Fro0w"/></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashiVIII&theme=graywhite&layout=compact&card_width=450" alt="Fro0w"/></p>
-
-#
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayashiVIII&show_icons=true&theme=radical)
 
 </details>
