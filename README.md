@@ -14,6 +14,25 @@
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=cCZ7u5kzRXiimLM_6Mn82Q)
 ---
 
+#
+
+<details style='text-align: center;' align='center'>
+  <summary> Sobre </summary>
+
+#
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hirotooz&show_icons=true&theme=radical)
+
+</details>
+
+
+#
+
+
+<img align="right" alt="GIF" height="400" width="800" src="https://github.com/Hirotooz/Hiro/blob/main/61606933d744cf18e68f2a008d0d2b58.gif" />
+  <br>
+
+
 "素 
 直
 に
