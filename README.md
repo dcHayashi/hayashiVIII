@@ -1,6 +1,6 @@
 ###  HAYASHI <img src="https://cdn.discordapp.com/emojis/796888458793713695.gif?v=1" width="28px"/>
 
-#####  🧪 Hi! well, I'm a programmer, for now, I'm in the basics, and I intend to become extremely advanced in JS and Py.
+#####  🧪 Hi! well, i'm a programmer. for now, I'm in the basics and intend to become extremely advanced in JS and Py.
 
 #### - 🌏 Fukoaka, Japan
 #### - ⛓ CEO VIII
