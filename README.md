@@ -10,7 +10,7 @@
 
 ##### <img src="https://cdn.discordapp.com/emojis/795323206595641415.gif?v=1" width="32px"> 正直が失礼な場合、私は虚偽よりも失礼と呼ばれることを好みます。<img src="https://cdn.discordapp.com/emojis/795323206595641415.gif?v=1" width="32px">
 
-### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/795051403692343300.gif?v=1" width="28px"/>*
+### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/780099855182856192.gif?v=1" width="28px"/>*
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=cCZ7u5kzRXiimLM_6Mn82Q)
 ---
 
