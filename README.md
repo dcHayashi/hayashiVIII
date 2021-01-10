@@ -12,4 +12,5 @@
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=cCZ7u5kzRXiimLM_6Mn82Q)
 
 ---
-<h3 align="center">Disconnect/h3>
+<h3 align="center">Disconnect
+---
