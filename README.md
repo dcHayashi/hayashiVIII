@@ -19,9 +19,8 @@
  
 #
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hayashiVIII&theme=gruvebox&show_icons=radical" alt="hayashiVIII"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hayashiVIII&show_icons=true&theme=radical" alt="hayashiVIII"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashiVIII&theme=graywhite&layout=compact&card_width=450" alt="hayashiVIII"/></p>
 
 #
 "素 
