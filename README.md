@@ -2,9 +2,9 @@
 
 #####  🧪 Hi! well, i'm a programmer. for now, I'm in the basics and intend to become extremely advanced in JS and Py.
 
-#### - 🌏 Fukoaka, Japan
-#### - ⛓ CEO VIII
-#### - ✨ I intend to have knowledge in the area of pentest 
+####  🌏 Fukoaka, Japan
+####  ⛓ CEO VIII
+####  ✨ I intend to have knowledge in the area of pentest 
 --- 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/797514271562793000/797650270690476082/wh6.gif" height="280px" width="454px">
 
